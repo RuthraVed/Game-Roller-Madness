@@ -7,14 +7,14 @@ As a part of Coursera's Game Development Course, this is my first Game developme
 * This is my direct passage into game development!
 
 ### Technologies Used
-Unity3d Game Engine
-C# Programming
+* Unity3d Game Engine
+* C# Programming
 
 ### Note
 I have made and uploaded three versions of this simple game -
-i) Fun-Roller-Madness
-ii) Difficult-Levels-Roller-Madness
-iii) Themed-Roller-Madness
+1. Fun-Roller-Madness
+2. Difficult-Levels-Roller-Madness
+3. Themed-Roller-Madness
 
 To run these versions on your system just download the respective folder and run the play file in Mozilla's Firefox browser. 
 
