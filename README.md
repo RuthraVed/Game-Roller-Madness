@@ -11,8 +11,14 @@ Unity3d Game Engine
 C# Programming
 
 ### Note
-A running version of this game could be found here, -- Builds/WebGL/index
-Just download WebGL folder and run the index file in Mozilla's Firefox browser. I hope you like it.
+I have made and uploaded three versions of this simple game -
+i) Fun-Roller-Madness
+ii) Difficult-Levels-Roller-Madness
+iii) Themed-Roller-Madness
+
+To run these versions on your system just download the respective folder and run the play file in Mozilla's Firefox browser. 
+
+I would like to here which version you liked the most. 
 
 
 
